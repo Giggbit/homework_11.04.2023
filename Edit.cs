@@ -13,7 +13,6 @@ namespace Дополнительные_диалоги_homework_11._04._2023
 {
     public partial class Edit : Form
     {
-
         public Edit() {
             InitializeComponent();
         }
